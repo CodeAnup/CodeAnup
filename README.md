@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anup c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anup c" height="30" width="40" /></a>
 <a href="https://instagram.com/anup_acharya96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anup_acharya96" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anup c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anup c" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anup_acharya96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anup_acharya96" height="30" width="40" /></a>
 <a href="https://discord.gg/Anup C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anup C" height="30" width="40" /></a>
 </p>
 
