@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1wKyT_sTrGqpz1l0YIL8qkfKLYg3UR063](https://drive.google.com/drive/folders/1wKyT_sTrGqpz1l0YIL8qkfKLYg3UR063)
 
-- ⚡ Extra-Curricular Activities **• Served as a Sergeant in the National Cadet Corps (NCC), leading and mentoring 40+ cadets. • Awarded Best Firer at the CITC Camp, Alva’s (2018). • State-level sprinter in 100m and 200m events; District-level in 400m.**
+- ⚡ Extra-Curricular Activities <br>**• Served as a Sergeant in the National Cadet Corps (NCC), leading and mentoring 40+ cadets. • Awarded Best Firer at the CITC Camp, Alva’s (2018). • State-level sprinter in 100m and 200m events; District-level in 400m.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
