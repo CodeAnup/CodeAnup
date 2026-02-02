@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anupc9605@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1wKyT_sTrGqpz1l0YIL8qkfKLYg3UR063](https://drive.google.com/drive/folders/1wKyT_sTrGqpz1l0YIL8qkfKLYg3UR063)
+- 📄 Know about my experiences [Resume](file:///C:/Users/LENOVO/Downloads/Anup%20(Resume)%20(1).pdf)
 
 - ⚡ Extra-Curricular Activities <br>**• Served as a Sergeant in the National Cadet Corps (NCC), leading and mentoring 40+ cadets. <br>• Awarded Best Firer at the CITC Camp, Alva’s (2018). <br>• State-level sprinter in 100m and 200m events; District-level in 400m.**
 
